@@ -5,10 +5,26 @@ body {
     text-align: center;
 }
 
-p {
+ li {
+    padding: 7px 10px 7px 10px;
     border: solid 3px black;
+    border-radius: 10px;
+}
+
+.info {
+    padding: 7px 10px 7px 10px;
+    border: solid 3px black;
+    border-radius: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+   
     font-size: 18px;
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 7px 10px 7px 10px;
 }
 
